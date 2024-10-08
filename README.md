@@ -22,7 +22,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/php-editor.git
+git clone https://github.com/putout/php-editor.git
 Navigate to the Directory:
 
 bash
