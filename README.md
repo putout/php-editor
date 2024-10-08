@@ -111,7 +111,7 @@ if ($conn->connect_error) {
 <p>
     Made for humanity by 
     <a href="https://www.instagram.com/abdoualittlebit" target="_blank">Abdou Traya</a> and 
-    <a href="https://www.instagram.com/putout" target="_blank">Abdou Traya</a>.
+    <a href="https://www.instagram.com/putout" target="_blank">https://www.instagram.com/putout</a>.
     <br>
     GitHub: <a href="https://www.github.com/putout" target="_blank">putout</a>
 </p>
