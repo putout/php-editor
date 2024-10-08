@@ -134,7 +134,7 @@ Clone Your Fork:
 
 bash
 Copy code
-git clone https://github.com/your-username/php-editor.git
+git clone https://github.com/putout/php-editor.git
 Create a Branch:
 
 bash
