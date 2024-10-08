@@ -1,24 +1,21 @@
 <?php
 /**
- * Recursive PHP Source Code Editor
+ * PHP Editor
  * 
- * An open-source web-based editor that allows you to view and edit PHP source code recursively,
- * along with included or required files. This tool is designed to help developers navigate and
- * modify their code efficiently.
+ * An open-source, web-based PHP editor designed to help developers efficiently navigate, view, and edit PHP source code. 
+ * Automatically nests all files starting from `index.php`, supporting PHP5 to ensure compatibility with legacy projects.
  * 
- * Made for humanity by Abdou Traya (@abdoualittlebit)
+ * Features:
+ * - **Recursive File Management:** Automatically detects and nests included or required files from `index.php`.
+ * - **PHP5 Compatibility:** Ensures functionality with older PHP versions, making it ideal for maintaining legacy systems.
+ * - **User-Friendly Interface:** Powered by Ace Editor for enhanced code readability and editing capabilities.
+ * - **Save with Shortcuts:** Easily save changes using the **Ctrl+S** (or **Cmd+S** on macOS) keyboard shortcut.
+ * - **Comprehensive Copy Functionality:** Copy code along with essential file and system information, including filename, directory, PHP version, and SQL version.
+ * 
+ * Made for humanity by Abdou Traya https://www.instagram.com/abdoualittlebit  https://www.instagram.com/putout github.com/putout 
  * 
  * @license MIT
- * 
  * @version 1.1
- */
-
- // Remove error reporting for production use
- // Uncomment the following lines for debugging purposes
- /*
- ini_set('display_errors', 1);
- ini_set('display_startup_errors', 1);
- error_reporting(E_ALL);
  */
 
  // Define the base directory as the current directory
